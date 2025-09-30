@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "6258",
+      "name": "shabeeb",
+      "email": "sabbi@gm.kdd",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "users",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    },
+    {
+      "id": "4726",
+      "name": "shabeeb",
+      "email": "shabeeb@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "user",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    },
+    {
+      "id": "14c7",
+      "name": "jithin",
+      "email": "jithin@gmail.com",
+      "password": "111111",
+      "confirmpassword": "111111",
+      "role": "user",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    },
+    {
+      "id": "ad59",
+      "name": "amal",
+      "email": "amal1098@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "user",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    }
+  ],
+
+
+  "products": [
+    {
+      "id": "001",
+      "name": "suui",
+      "category": "sony",
+      "price": "111",
+      "rating": "0.4",
+      "stock": "5",
+      "image": "https://i.pinimg.com/736x/10/9c/3f/109c3f35a1ed7308892c66135e029352.jpg",
+      "description": "Over-ear headphones with deep bass, comfort padding, and long-lasting durability."
+    }
+  ]
+}
