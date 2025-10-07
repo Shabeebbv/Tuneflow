@@ -1,17 +1,6 @@
 {
   "users": [
     {
-      "id": "6258",
-      "name": "shabeeb",
-      "email": "sabbi@gm.kdd",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "role": "users",
-      "cart": [],
-      "wishlist": [],
-      "orders": []
-    },
-    {
       "id": "14c7",
       "name": "jithin",
       "email": "jithin@gmail.com",
@@ -25,15 +14,15 @@
           "price": "59000",
           "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
           "stock": "3",
-          "quantity": 5
+          "quantity": 3
         },
         {
-          "productId": "002",
-          "name": "JBL Tune 520 BT 57Hr Playtime, Pure Bass, Multi Connect Bluetooth Headset, BT 5.3LE Bluetooth  (Blue, On the Ear)",
-          "price": "1560",
-          "oldPrice": "3200",
-          "image": "https://i.pinimg.com/736x/98/a2/6f/98a26f3fc62a5f9d5eb124024a350071.jpg",
-          "stock": "8",
+          "productId": "004",
+          "name": "Noise TWO with 50 Hours Playtime, Low latency (up to 40ms), and Dual pairing Wireless Bluetooth  (Bold Black, On the Ear)",
+          "price": "1990",
+          "oldPrice": "4990",
+          "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
+          "stock": "5",
           "quantity": 1
         }
       ],
@@ -69,7 +58,25 @@
       "password": "123456",
       "confirmpassword": "123456",
       "role": "user",
-      "cart": [],
+      "cart": [
+        {
+          "productId": "003",
+          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
+          "price": "59000",
+          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
+          "stock": "3",
+          "quantity": 1
+        },
+        {
+          "productId": "004",
+          "name": "Noise TWO with 50 Hours Playtime, Low latency (up to 40ms), and Dual pairing Wireless Bluetooth  (Bold Black, On the Ear)",
+          "price": "1990",
+          "oldPrice": "4990",
+          "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
+          "stock": "5",
+          "quantity": 1
+        }
+      ],
       "wishlist": [],
       "orders": []
     }
