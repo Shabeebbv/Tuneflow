@@ -12,24 +12,31 @@
       "orders": []
     },
     {
-      "id": "4726",
-      "name": "shabeeb",
-      "email": "shabeeb@gmail.com",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "role": "user",
-      "cart": [],
-      "wishlist": [],
-      "orders": []
-    },
-    {
       "id": "14c7",
       "name": "jithin",
       "email": "jithin@gmail.com",
       "password": "111111",
       "confirmpassword": "111111",
       "role": "user",
-      "cart": [],
+      "cart": [
+        {
+          "productId": "003",
+          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
+          "price": "59000",
+          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
+          "stock": "3",
+          "quantity": 5
+        },
+        {
+          "productId": "002",
+          "name": "JBL Tune 520 BT 57Hr Playtime, Pure Bass, Multi Connect Bluetooth Headset, BT 5.3LE Bluetooth  (Blue, On the Ear)",
+          "price": "1560",
+          "oldPrice": "3200",
+          "image": "https://i.pinimg.com/736x/98/a2/6f/98a26f3fc62a5f9d5eb124024a350071.jpg",
+          "stock": "8",
+          "quantity": 1
+        }
+      ],
       "wishlist": [],
       "orders": []
     },
@@ -48,6 +55,17 @@
       "id": "6cda",
       "name": "jithinc",
       "email": "jithinc@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "user",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    },
+    {
+      "id": "0b2d",
+      "name": "mubaris",
+      "email": "mubaris@gmail.com",
       "password": "123456",
       "confirmpassword": "123456",
       "role": "user",
