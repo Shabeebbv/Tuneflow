@@ -9,19 +9,20 @@
       "role": "user",
       "cart": [
         {
-          "productId": "003",
-          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
-          "price": "59000",
-          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
-          "stock": "3",
-          "quantity": 3
+          "productId": "015",
+          "name": "Noise Airwave Max 5 Wireless Over-Ear Headphones with Adaptive Hybrid ANC (up to 50dB)",
+          "price": "20000",
+          "oldPrice": "23000",
+          "image": "https://i.pinimg.com/736x/56/9a/9e/569a9e13a4772ca377854558510b87dd.jpg",
+          "stock": "7",
+          "quantity": 2
         },
         {
-          "productId": "004",
-          "name": "Noise TWO with 50 Hours Playtime, Low latency (up to 40ms), and Dual pairing Wireless Bluetooth  (Bold Black, On the Ear)",
-          "price": "1990",
-          "oldPrice": "4990",
-          "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
+          "productId": "008",
+          "name": "SONY ULT WEAR Noise Cancelling with Massive Bass & Comfortable Design Bluetooth  (Black, On the Ear)",
+          "price": "12990",
+          "oldPrice": "24999",
+          "image": "https://i.pinimg.com/736x/44/2d/ae/442dae4e36cf87b238d337aadcb0c58d.jpg",
           "stock": "5",
           "quantity": 1
         }
