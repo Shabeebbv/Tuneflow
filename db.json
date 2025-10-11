@@ -134,30 +134,74 @@
       "role": "user",
       "cart": [
         {
-          "productId": "011",
-          "name": "ZEBRONICS Zeb-Thunder Wireless Over-Ear Headphones with 60H Battery Backup",
-          "price": "2500",
-          "oldPrice": "3000",
-          "image": "https://i.pinimg.com/736x/66/0b/55/660b556d3d867a4f575153d6461c2ab5.jpg",
-          "stock": "12",
+          "productId": "003",
+          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
+          "price": "59000",
+          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
+          "stock": "3",
+          "quantity": 1
+        }
+      ],
+      "wishlist": [
+        {
+          "id": "002",
+          "name": "JBL Tune 520 BT 57Hr Playtime, Pure Bass, Multi Connect Bluetooth Headset, BT 5.3LE Bluetooth  (Blue, On the Ear)",
+          "category": "JBL",
+          "oldPrice": "3200",
+          "price": "1560",
+          "rating": "4.1",
+          "ratings": "1845",
+          "stock": "8",
+          "image": "https://i.pinimg.com/736x/98/a2/6f/98a26f3fc62a5f9d5eb124024a350071.jpg",
+          "description": "Over-ear headphones with deep bass, comfort padding, and long-lasting durability."
+        }
+      ],
+      "orders": [
+        {
+          "productId": "003",
+          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
+          "price": "59000",
+          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
+          "stock": "3",
           "quantity": 1
         },
         {
-          "productId": "008",
-          "name": "SONY ULT WEAR Noise Cancelling with Massive Bass & Comfortable Design Bluetooth  (Black, On the Ear)",
-          "price": "12990",
-          "oldPrice": "24999",
-          "image": "https://i.pinimg.com/736x/44/2d/ae/442dae4e36cf87b238d337aadcb0c58d.jpg",
+          "productId": "004",
+          "name": "Noise TWO with 50 Hours Playtime, Low latency (up to 40ms), and Dual pairing Wireless Bluetooth  (Bold Black, On the Ear)",
+          "price": "1990",
+          "oldPrice": "4990",
+          "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
           "stock": "5",
           "quantity": 1
-        },
+        }
+      ]
+    },
+    {
+      "id": "d485",
+      "name": "subair",
+      "email": "subair1@gmail.com",
+      "password": "111111",
+      "confirmpassword": "111111",
+      "role": "user",
+      "cart": [],
+      "wishlist": [],
+      "orders": []
+    },
+    {
+      "id": "2f90",
+      "name": "shabeeb",
+      "email": "shabeeb2@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "user",
+      "cart": [
         {
-          "productId": "012",
-          "name": "BOSE QuietComfort 45 Bluetooth Over-Ear Headphones with 24hr Battery Life",
-          "price": "18500",
-          "oldPrice": "19989",
-          "image": "https://i.pinimg.com/1200x/56/25/99/56259969c09d55f52f83171dd0b6ff91.jpg",
-          "stock": "6",
+          "productId": "001",
+          "name": "boAt Rockerz 450 w/ 40mm Drivers, 15 HRS Playback, Soft Padded Earcups Bluetooth  (Aqua Blue, On the Ear)",
+          "price": "1199",
+          "oldPrice": "3990",
+          "image": "https://i.pinimg.com/736x/52/3a/9b/523a9b4bc56d017b9c0f3433a99b3fb2.jpg",
+          "stock": "10",
           "quantity": 1
         },
         {
@@ -185,41 +229,153 @@
           "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
           "stock": "5",
           "quantity": 1
+        },
+        {
+          "productId": "008",
+          "name": "SONY ULT WEAR Noise Cancelling with Massive Bass & Comfortable Design Bluetooth  (Black, On the Ear)",
+          "price": "12990",
+          "oldPrice": "24999",
+          "image": "https://i.pinimg.com/736x/44/2d/ae/442dae4e36cf87b238d337aadcb0c58d.jpg",
+          "stock": "5",
+          "quantity": 1
+        },
+        {
+          "productId": "007",
+          "name": "ZEBRONICS Zeb- Thunder, With 60H Backup, BT v5.3, Gaming Mode, ENC, AUX, mSD, Dual Pairing Bluetooth  (Blue, On the Ear)",
+          "price": "799",
+          "oldPrice": "1199",
+          "image": "https://i.pinimg.com/736x/24/d9/00/24d90090ce726e225032203d8a78683e.jpg",
+          "stock": "5",
+          "quantity": 1
+        },
+        {
+          "productId": "006",
+          "name": "Noise Airwave Max 5 Wireless Over-Ear Headphones with Adaptive Hybrid ANC (up to 50dB), HFA Tech, 80H Playtime, Dual Pairing(Calm Beige)",
+          "price": "4999",
+          "oldPrice": "6999",
+          "image": "https://i.pinimg.com/736x/00/0a/d6/000ad6c74f18e51dbdea304c8842e60a.jpg",
+          "stock": "5",
+          "quantity": 1
+        },
+        {
+          "productId": "005",
+          "name": "Marshall Major V Wireless On-Ear Headphones, 100 Hours playtime Bluetooth  (Black, On the Ear)",
+          "price": "14990",
+          "oldPrice": "18000",
+          "image": "https://i.pinimg.com/736x/27/7e/df/277edf714e0a970bdec82974fbb3f7db.jpg",
+          "stock": "5",
+          "quantity": 1
+        },
+        {
+          "productId": "009",
+          "name": "JBL Tune 510BT Wireless On-Ear Headphones with 40Hr Playtime and Pure Bass",
+          "price": "12500",
+          "oldPrice": "13500",
+          "image": "https://i.pinimg.com/1200x/25/3e/ff/253eff1d09178758c72e117f328589f5.jpg",
+          "stock": "8",
+          "quantity": 1
+        },
+        {
+          "productId": "010",
+          "name": "SONY WH-1000XM4 Bluetooth Noise Cancelling Over-Ear Headset",
+          "price": "18500",
+          "oldPrice": "19980",
+          "image": "https://i.pinimg.com/736x/55/11/34/5511349dc33c980b3d9ff4f8548aebf4.jpg",
+          "stock": "3",
+          "quantity": 1
         }
       ],
-      "wishlist": [],
-      "orders": []
-    },
-    {
-      "id": "7aa7",
-      "name": "shabeeb",
-      "email": "shabeeb@gmaiil.com",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "role": "user",
-      "cart": [],
-      "wishlist": [],
-      "orders": []
-    },
-    {
-      "id": "d485",
-      "name": "subair",
-      "email": "subair1@gmail.com",
-      "password": "111111",
-      "confirmpassword": "111111",
-      "role": "user",
-      "cart": [],
-      "wishlist": [],
-      "orders": []
-    },
-    {
-      "id": "2f90",
-      "name": "shabeeb",
-      "email": "shabeeb2@gmail.com",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "role": "user",
-      "cart": [
+      "wishlist": [
+        {
+          "id": "016",
+          "name": "boAt Rockerz 551 ANC Pro(2025 Launch) with 42dB ANC,72Hrs Battery, App Support Bluetooth  (Black, On the Ear)",
+          "category": "Boat",
+          "oldPrice": "1399",
+          "price": "1299",
+          "rating": "4.2",
+          "ratings": "2,622",
+          "stock": "5",
+          "image": "https://i.pinimg.com/736x/49/71/1b/49711bc7d0f98aca556a2b798277d64b.jpg",
+          "description": "BoAt Rockerz 450 Bluetooth Headphones with 15H Playtime, Foldable Design, and Built-in Mic"
+        },
+        {
+          "id": "020",
+          "name": "Noise TWO with 50 Hours Playtime, Low latency (up to 40ms), and Dual pairing Wireless Bluetooth  (Bold Black, On the Ear)",
+          "category": "Noise",
+          "oldPrice": "4990",
+          "ratings": "1245",
+          "price": "1990",
+          "rating": "4.1",
+          "stock": "5",
+          "tag": "Limited Time Offer",
+          "image": "https://i.pinimg.com/736x/2d/1d/91/2d1d91c9e8991a98db74c8b1e84db3a9.jpg",
+          "description": "Over-ear headphones with deep bass, comfort padding, and long-lasting durability."
+        },
+        {
+          "id": "012",
+          "name": "BOSE QuietComfort 45 Bluetooth Over-Ear Headphones with 24hr Battery Life",
+          "category": "BOSE",
+          "oldPrice": "19989",
+          "price": "18500",
+          "rating": "4.4",
+          "ratings": "87",
+          "stock": "6",
+          "image": "https://i.pinimg.com/1200x/56/25/99/56259969c09d55f52f83171dd0b6ff91.jpg",
+          "description": "BOSE QuietComfort 45 Bluetooth Headphones with Noise Cancellation and 24hr Battery Life"
+        },
+        {
+          "id": "007",
+          "name": "ZEBRONICS Zeb- Thunder, With 60H Backup, BT v5.3, Gaming Mode, ENC, AUX, mSD, Dual Pairing Bluetooth  (Blue, On the Ear)",
+          "category": "Zebronics",
+          "oldPrice": "1199",
+          "ratings": "1245",
+          "price": "799",
+          "rating": "3.8",
+          "stock": "5",
+          "image": "https://i.pinimg.com/736x/24/d9/00/24d90090ce726e225032203d8a78683e.jpg",
+          "description": "Over-ear headphones with deep bass, comfort padding, and long-lasting durability."
+        },
+        {
+          "id": "026",
+          "name": "SONY WH-1000XM4 Bluetooth Noise Cancelling Over-Ear Headset",
+          "category": "SONY",
+          "oldPrice": "19980",
+          "price": "18500",
+          "rating": "4.6",
+          "ratings": "3430",
+          "stock": "3",
+          "image": "https://i.pinimg.com/736x/55/11/34/5511349dc33c980b3d9ff4f8548aebf4.jpg",
+          "description": "SONY WH-1000XM4 Bluetooth Gaming Headset with Noise Cancellation and Alexa Voice Control",
+          "tag": "Top Product"
+        }
+      ],
+      "orders": [
+        {
+          "productId": "003",
+          "name": "Apple New AirPods Max Bluetooth  (Space Grey, On the Ear)",
+          "price": "59000",
+          "image": "https://i.pinimg.com/1200x/94/03/ca/9403ca0abafe98be7764051353a99641.jpg",
+          "stock": "3",
+          "quantity": 1
+        },
+        {
+          "productId": "001",
+          "name": "boAt Rockerz 450 w/ 40mm Drivers, 15 HRS Playback, Soft Padded Earcups Bluetooth  (Aqua Blue, On the Ear)",
+          "price": "1199",
+          "oldPrice": "3990",
+          "image": "https://i.pinimg.com/736x/52/3a/9b/523a9b4bc56d017b9c0f3433a99b3fb2.jpg",
+          "stock": "10",
+          "quantity": 1
+        },
+        {
+          "productId": "001",
+          "name": "boAt Rockerz 450 w/ 40mm Drivers, 15 HRS Playback, Soft Padded Earcups Bluetooth  (Aqua Blue, On the Ear)",
+          "price": "1199",
+          "oldPrice": "3990",
+          "image": "https://i.pinimg.com/736x/52/3a/9b/523a9b4bc56d017b9c0f3433a99b3fb2.jpg",
+          "stock": "10",
+          "quantity": 1
+        },
         {
           "productId": "002",
           "name": "JBL Tune 520 BT 57Hr Playtime, Pure Bass, Multi Connect Bluetooth Headset, BT 5.3LE Bluetooth  (Blue, On the Ear)",
@@ -229,9 +385,7 @@
           "stock": "8",
           "quantity": 1
         }
-      ],
-      "wishlist": [],
-      "orders": []
+      ]
     }
   ],
   "products": [
